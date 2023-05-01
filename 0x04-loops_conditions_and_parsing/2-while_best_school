@@ -2,8 +2,13 @@
 #while loop
 
 count=1
+
 while [ $count -le 10 ]
+
 do
+
     echo "Holberton School"
+
     ((count++))
+
 done
