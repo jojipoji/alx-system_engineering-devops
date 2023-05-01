@@ -7,8 +7,8 @@ while [ $count -le 10 ]
 
 do
 
-    echo "Holberton School"
+  echo "Holberton School"
 
-    ((count++))
+  ((count++))
 
 done
